@@ -85,12 +85,12 @@ Another example (in cycript , for quick understanding) , creating our own new da
 Licence
 -----------
 
-libEasySQLite is open source
+libEasySQLite3 is open source. Feel free to help improving it if you like.
 
 Compile
 -------
 
-libEasySQLite is compiled using Theos. For more information about 
+libEasySQLite3 is compiled using Theos. For more information about 
 Theos/Logos, visit http://bit.ly/af0Evu and http://hwtt.net/ths
 
 
