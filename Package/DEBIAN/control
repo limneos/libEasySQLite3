@@ -1,0 +1,7 @@
+Package: libeasysqlite3
+Name: libEasySQLite3
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <iphone@limneos.net>
+Depends: mobilesubstrate 
+Description: a Library with SQLite convenience methods
