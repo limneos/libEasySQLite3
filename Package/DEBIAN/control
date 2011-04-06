@@ -3,5 +3,5 @@ Name: libEasySQLite3
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Elias Limneos <iphone@limneos.net>
-Depends: mobilesubstrate 
+Depends: mobilesubstrate , sqlite3, sqlite3-lib
 Description: a Library with SQLite convenience methods
