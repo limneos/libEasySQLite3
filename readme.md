@@ -62,7 +62,7 @@ Another example (in cycript , for quick understanding) , creating our own new da
 	[manager createTable:@"myTable" withFields:fields ofTypes:types];
 	
 	[manager tables];
-	// [""myTable""]
+	//["myTable"]
 	
 	fieldsArray=[NSMutableArray array];
 	[fieldsArray addObject:@"message"];
